@@ -12,5 +12,3 @@ A Service Desk is a ticket management system which allows enterprises to impleme
 - Freshdesk
 - LiveAgent
 - Comodo Service Desk
-
-Heroku deployment: https://guarded-oasis-79578.herokuapp.com
